@@ -1,6 +1,8 @@
 # Webforever.es-Bootstrap-4-Responsive-Tabs
 Responsive tabs in Bootstrap 4
 
+Developed by https://webforever.es
+
 This plugin makes the tabs of Bootstrap 4 receptive. If they do not fit, it will create a drop-down menu. It also works when you change the size of the screen.
 
 ## DEMO
